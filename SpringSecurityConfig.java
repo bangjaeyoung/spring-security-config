@@ -1,4 +1,4 @@
-package me.benny.practice.spring.security.config;
+package com.example.springsecuritypractice.config;
 
 import lombok.RequiredArgsConstructor;
 import me.benny.practice.spring.security.user.User;
